@@ -1,4 +1,4 @@
-**My First Freelance Project (Front-End Development)**
+**My First Freelance Project (Front-End Development)**<br>
 This project marks my first experience as a freelance front-end developer. I had the opportunity to collaborate closely with my friend, who handled the back-end development. Our combined efforts led to the successful completion of a fully functional and user-friendly website.
 
 **Project Overview**

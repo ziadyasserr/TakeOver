@@ -12,18 +12,18 @@ Created detailed project specifications and timelines.<br>
 Developed wireframes and mockups to visualize the website layout.
 Ensured the design was user-friendly and consistent with the client's brand identity.<br>
 
-**Development**
+**Development**<br>
 Utilized HTML, CSS, and JavaScript to build the website's structure and style.
 Implemented responsive design to ensure the website was mobile-friendly.
-Added interactive elements to enhance user experience.
+Added interactive elements to enhance user experience.<br>
 
-**Testing**
+**Testing**<br>
 Conducted thorough testing to identify and resolve any bugs or issues.
-Ensured cross-browser compatibility and optimal performance.
+Ensured cross-browser compatibility and optimal performance.<br>
 
-**Deployment**
+**Deployment**<br>
 Assisted in deploying the website to a live server.
-Provided post-deployment support and maintenance as needed.
+Provided post-deployment support and maintenance as needed.<br>
 
-**Collaboration**
+**Collaboration**<br>
 Working alongside my friend, who managed the back-end development, was a rewarding experience. Our teamwork and communication were crucial to the project's success, allowing us to deliver a high-quality product that met the client's expectations.

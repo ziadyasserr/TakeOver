@@ -5,7 +5,7 @@ This project marks my first experience as a freelance front-end developer. I had
 For this project, my responsibilities included designing and developing the front-end of the website.Below are the key tasks I performed:<br>
 
 **Requirement Analysis**<br>
-Collaborated with the client to understand their needs and goals.<br>
+**.**Collaborated with the client to understand their needs and goals.<br>
 Created detailed project specifications and timelines.<br>
 
 **Design**<br>

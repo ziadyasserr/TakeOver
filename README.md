@@ -6,6 +6,7 @@ For this project, my responsibilities included designing and developing the fron
 
 **Requirement Analysis**<br>
 **.**Collaborated with the client to understand their needs and goals.<br>
+**.**
 Created detailed project specifications and timelines.<br>
 
 **Design**<br>

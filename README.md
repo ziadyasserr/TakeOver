@@ -1,7 +1,7 @@
-**My First Freelance Project (Front-End Development)**<br><br>
-This project marks my first experience as a freelance front-end developer. I had the opportunity to collaborate closely with my friend, who handled the back-end development. Our combined efforts led to the successful completion of a fully functional and user-friendly website.
+**My First Freelance Project (Front-End Development)**<br>
+This project marks my first experience as a freelance front-end developer. I had the opportunity to collaborate closely with my friend, who handled the back-end development. Our combined efforts led to the successful completion of a fully functional and user-friendly website.<br>
 
-**Project Overview**<br><br>
+**Project Overview**
 For this project, my responsibilities included designing and developing the front-end of the website. Below are the key tasks I performed:
 
 **Requirement Analysis**
